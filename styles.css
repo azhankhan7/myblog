@@ -1,0 +1,158 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin:0;
+	padding:20px;
+	background-color: #f1f1f1;
+}
+p {
+	font-size: 18px;
+}
+*{
+	box-sizing: border-box;
+}
+.row:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.mainhead{
+	 background-color: #ffffff;
+	 font-family: 'Open Sans Condensed', sans-serif;
+	 font-size: 18px;
+
+}
+header{
+	background-color: #ffffff;
+	padding:30px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+header h1{
+	text-align: center;
+	font-size:60px;
+	color:#000000;
+	margin:1.5 0px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2{
+	color:#000000;
+margin:1.5 0px;
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 18px;
+}
+.social{
+	padding-top: 5%;
+}
+
+.left-column{
+float: left;
+width: 75%;
+}
+
+.right-column{
+ width: 25%;
+ float: right;
+ padding-left:20px;
+}
+.card{
+	background-color: #ffffff;
+  margin-top:20px;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#yflower{
+  background-color: #ffffff;
+  margin-top:20px;
+  width:85%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+
+.card img{
+	width: 85%;
+}
+
+#mypic{
+  width: 80%;
+  height: auto;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+
+
+
+.right-column .card img{
+	margin-bottom: 10px;
+}
+
+
+footer{
+	background-color: #dddddd;
+	padding: 20px;
+	text-align: center;
+	margin-top: 20px;
+}
+.site-footer
+{
+  background-color:white;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+}
+.copyright-text
+{
+  margin:0
+}
+.container{
+	padding-bottom: 50px;
+}
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+#needfs{
+  width: 90%;
+  height: 50%;
+}
+
+#nissan{
+  width: 90%;
+  height: auto;
+}
